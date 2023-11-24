@@ -3,8 +3,11 @@ java star pattren of diamond shape
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-public class diamondpattren {    
-    
+
+
+source code    
+
+    public class diamondpattren {  
     public static void main(String[] args) {
         //above traingle of diamond
         for(int i =1;i<=5;i++){
